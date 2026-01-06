@@ -21,20 +21,59 @@ I have hands-on experience working on both **personal and team projects** involv
 ---
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+<p align="left">
+  <div style="display: flex; gap: 40px; flex-wrap: wrap;">
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="50" />
+      <br/>
+      <sub>React</sub>
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="50" />
+      <br/>
+      <sub>HTML</sub>
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="50" />
+      <br/>
+      <sub>CSS</sub>
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="50" />
+      <br/>
+      <sub>JavaScript</sub>
+    </div>
+  </div>
 </p>
+
 
 ---
 
 ### 🧠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<p align="left">
+  <div style="display: flex; gap: 40px; flex-wrap: wrap;">
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+      <br/>
+      <sub>Node.js</sub>
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="50" />
+      <br/>
+      <sub>Express.js</sub>
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50" />
+      <br/>
+      <sub>Python</sub>
+    </div>
+  </div>
 </p>
 
 ---
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
+<p><strong>React Native</strong></p>
