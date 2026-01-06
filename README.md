@@ -6,8 +6,8 @@
 
 ### 🤝 Let’s Connect
 <p align="left">
-  <a href="www.linkedin.com/in/rachel-phan04" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/rachel-phan04" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
   </a>
 </p>
 
